@@ -4,6 +4,10 @@
 
 📫 How to reach me ...
 
+- [Pipecraft](https://www.pipecraft.net/) : https://www.pipecraft.net/
+- [抛砖问答/P站问答](https://pzwd.net/) ：https://pzwd.net/
+
+
 <!---
 Pipecraft-net/Pipecraft-net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
