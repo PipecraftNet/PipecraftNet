@@ -1,4 +1,5 @@
 - [小鱼标签 (UTags) - 为链接添加用户标签 🏷️](https://greasyfork.org/scripts/460718-utags-add-usertags-to-links)
+  - [utags.link](https://utags.link/)
   - [GitHub](https://github.com/utags/utags)
   - [Chrome Web Store](https://chromewebstore.google.com/detail/utags-add-usertags-to-lin/kofjcnaphffjoookgahgjidofbdplgig)
   - [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/utags-add-usertags-to-l/bhlbflbehfoccjjenpekilgabbjjnphe)
